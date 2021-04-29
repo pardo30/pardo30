@@ -1,5 +1,5 @@
 ## Hi, I'm Javi 👋
-![me](https://user-images.githubusercontent.com/73775032/116593124-0e11e200-a921-11eb-96d7-8017a68fbc42.png=250x250)
+![me_photo](https://user-images.githubusercontent.com/73775032/116597851-67304480-a926-11eb-87ad-d26642b56c19.png)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo30&layout=compact)-->
 ![Pardo30's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo30&show_icons=true&theme=dark)
 
