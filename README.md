@@ -1,7 +1,6 @@
 ## Hi, I'm Javi 👋
-![me_photo](https://user-images.githubusercontent.com/73775032/116597851-67304480-a926-11eb-87ad-d26642b56c19.png)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo30&layout=compact)-->
-![Pardo30's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo30&show_icons=true&theme=dark)
+![me_photo](https://user-images.githubusercontent.com/73775032/116597851-67304480-a926-11eb-87ad-d26642b56c19.png) ![Pardo30's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo30&show_icons=true&theme=dark) <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardo30&layout=compact)-->
+
 
 <!--
 **pardo30/pardo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
